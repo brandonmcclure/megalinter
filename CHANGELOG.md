@@ -23,6 +23,9 @@ Note: Can be used with `megalinter/megalinter@beta` in your GitHub Action mega-l
   - [sfdx-scanner-aura](https://forcedotcom.github.io/sfdx-scanner/) from 2.13.0 to **2.13.1** on 2022-03-24
   - [sfdx-scanner-lwc](https://forcedotcom.github.io/sfdx-scanner/) from 2.13.0 to **2.13.1** on 2022-03-24
   - [snakemake](https://snakemake.readthedocs.io/en/stable/) from 7.3.0 to **7.3.1** on 2022-03-24
+  - [golangci-lint](https://golangci-lint.run/) from 1.45.0 to **1.45.1** on 2022-03-24
+  - [cspell](https://github.com/streetsidesoftware/cspell/tree/master/packages/cspell) from 5.19.2 to **5.19.3** on 2022-03-24
+  - [checkov](https://www.checkov.io/) from 2.0.983 to **2.0.984** on 2022-03-24
 <!-- linter-versions-end -->
 
 ## [v5.10.0] - 2022-03-20
